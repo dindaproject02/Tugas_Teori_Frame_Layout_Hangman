@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="judul_permainan">Hangman</string>
+    <string name="hint_tebak">Huruf</string>
+    <string name="btn_tebak">Tebak</string>
+    <string name="btn_main_lagi">Main Lagi</string>
+    <string name="btn_mulai">Mulai Bermain</string>
+    <string name="menang">Kamu Menang!</string>
+    <string name="kalah">Kamu Kalah</string>
+    <string name="gambar_gantungan">Gambar tiang gantungan</string>
+    <string name="judul_kesulitan">Pilih Tingkat Kesulitan</string>
+    <string name="btn_mudah">Mudah (8 Nyawa)</string>
+    <string name="btn_sedang">Sedang (6 Nyawa)</string>
+    <string name="btn_sulit">Sulit (4 Nyawa)</string>
+    <string name="petunjuk_awal">💡 Petunjuk: Kata ini berkaitan dengan pemrograman Android</string>
+
+    <!-- daftar kata rahasia: huruf besar, tanpa spasi -->
+    <string-array name="daftar_kata">
+        <item>ANDROID</item>
+        <item>KOTLIN</item>
+        <item>LAYOUT</item>
+        <item>AKTIVITAS</item>
+        <item>INTENT</item>
+        <item>WIDGET</item>
+    </string-array>
+</resources>
